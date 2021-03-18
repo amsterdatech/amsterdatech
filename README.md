@@ -1,4 +1,4 @@
-👋 ### Hi there! I'm William Gouvea :brazil:
+ ### 👋  Hi there! I'm William Gouvea :brazil:
 
 - I'm currently work as Android/Flutter/Backend Specialist at **Flying Dutchman** 🦧:sailboat:
 
