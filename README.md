@@ -1,8 +1,14 @@
- ### 👋  Hi there! I'm William Gouvea :brazil:
+ ### 👋  Hi there! I'm  <a href="https://www.linkedin.com/in/williamgouvea/"><img src="https://img.shields.io/badge/-William%20Gouvea-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil:
 
-- I'm currently work as Android/Flutter/Backend Specialist at **Flying Dutchman** 🦧:sailboat:
+- I'm currently work as Android/Flutter/Backend Specialist at **Flying Dutchman** 🦧:sailboat: 
 
-![](https://github-readme-stats.vercel.app/api?username=amsterdatech&show_icons=true&theme=dark)
+
+
+<p align="center">
+<a href="https://github.com/amsterdatech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amsterdatech&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -14,6 +20,7 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
 
 
 <!--
