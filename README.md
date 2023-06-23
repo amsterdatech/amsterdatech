@@ -3,14 +3,6 @@
 - I'm currently work as Android/Flutter/Backend Specialist at **Flying Dutchman** 🦧:sailboat: 
 
 
-
-<p align="center">
-<a href="https://github.com/amsterdatech">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amsterdatech&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-
 ### 🛠 &nbsp;Tech Stack
 
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
